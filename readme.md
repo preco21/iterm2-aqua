@@ -6,7 +6,7 @@
 
 ## Install
 
-- Download theme (right-click and choose _save link as…_): [`aqua.itermcolors`](https://github.com/preco21/iterm2-aqua/raw/master/aqua.itermcolors)
+- Download theme (right-click and choose _Save Link As…_): [`aqua.itermcolors`](https://github.com/preco21/iterm2-aqua/raw/master/aqua.itermcolors).
 - Double-click the downloaded file to install.
 
 ## License
